@@ -57,9 +57,3 @@ Learned to integrate and configure ApexCharts for dynamic data visualization.
 Working with Dark and Light Themes
 
 Implemented theme switching using JavaScript and CSS classes with local storage support.
-
-# How to Run
-
-1. Download project files  
-2. Open index.html in browser  
-3. No installation required  
