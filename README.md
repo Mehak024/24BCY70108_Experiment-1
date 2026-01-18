@@ -56,4 +56,4 @@ Learned to integrate and configure ApexCharts for dynamic data visualization.
 
 Working with Dark and Light Themes
 
-Implemented theme switching using JavaScript and CSS classes with local storage support.
+Implemented theme switching using JavaScript and CSS classes with local storage support
